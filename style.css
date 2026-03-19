@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-principal: ;
-    --cor-verde: #ec1270;
-    --cor-clara: #a754de;
-    --cor-musgo: #c32185;
+    --cor-principal:#ff005d ;
+    --cor-vinho: #98114c;
+    --cor-lilás: #a754de;
+    --cor-marsala: #c32185;
     --cor-preto: #000000;
     --cor-branco: #ffffff;
 }
