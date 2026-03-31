@@ -35,6 +35,7 @@ body {
 }
 .habilidades:hover .badge {
     background-color: var(--cor-branco) !important;
-    transform: scale(1.05);
+    color : var(--cor-preto);
+    transform: scale(1.15);
     transition: 0.3s;
 }
